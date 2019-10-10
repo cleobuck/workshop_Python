@@ -57,7 +57,7 @@ Si executé notre roulette grace à la commande suivante:
 
 Vous pouvez constater qu'il nous retourne une erreur. 
 
-   ![Le python te félicite](assets/420.gif)
+   ![Le python te félicite](../assets/420.gif)
 
 En effet l'utilisateur entre une chaine de caractéres , nous allons devoir la convertire en entier. Pour cela nous allons utiliser le bloc try.
 
@@ -94,6 +94,6 @@ while continuer:
             print("Nombre invalide")
             mise = -1  
 ```  
-  ![Le python te félicite](assets/compris.gif)
+  ![Le python te félicite](../assets/compris.gif)
 
  <a href="python3.md">NEXT >> </a>

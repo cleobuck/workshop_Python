@@ -1,6 +1,6 @@
 # Intro Python
 
-![logo Django](assets/python.png)
+![logo Django](../assets/python.png)
 
 ## Qu'est-ce que Python? 
 Python est un langage de programmation, dont la première version est sortie en 1991. Créé par      Guido van Rossum, il a voyagé du Macintosh de son créateur, qui travaillait à cette époque au      Centrum voor Wiskunde en Informatica aux Pays-Bas, jusqu'à se voir associer une organisation à     but non lucratif particulièrement dévouée, la Python Software Foundation, créée en 2001. Ce        langage a été baptisé ainsi en hommage à la troupe de comiques les « Monty Python ».
@@ -23,7 +23,7 @@ Python est un langage de programmation, dont la première version est sortie en 
      - Si le numéro gagnant est celui sur lequel le joueur a misé le croupier lui remet 36 fois la somme misée.
      - Sinon, le croupier regarde si le numéro misé par le joueur est de la même couleur que le  numéro gagnant (s'ils sont tous les deux pairs ou tous les deux impairs). Si c'est le cas, le croupier lui remet deux fois la somme misée. Sinon, le joueur perd sa mise.
 
-![Le python te félicite](assets/casi.gif)
+![Le python te félicite](../assets/casi.gif)
 ## Lancer Python
     
 ### Sous windows
@@ -32,20 +32,20 @@ Vous avez plusieurs façons d'accéder à la ligne de commande Python, la plus �
 
     Démarrer>Tous les programmes>Python 3.x>Python (Command Line).
 
-![Le python te félicite](assets/wind.jpg)
+![Le python te félicite](../assets/wind.jpg)
 
 ### Sous Linux
 
 Lorsque vous l'avez installé sur votre système, Python a créé un lien vers l'interpréteur sous la forme python3.X (le X étant le numéro de la version installée).
 
     Si, par exemple, vous avez installé Python 3.4, vous pouvez y accéder grâce à la commande :
-![Le python te félicite](assets/capture.png)
+![Le python te félicite](../assets/capture.png)
 
 ## Premiers pas avec l'interpréteur de commandes Python
 
 ### Opération courante 
 
-![Le python te félicite](assets/calcul.png)
+![Le python te félicite](../assets/calcul.png)
 
 ## Les variables 
 En Python, pour donner une valeur à une variable, il suffit d'écrire. 
@@ -53,15 +53,15 @@ En Python, pour donner une valeur à une variable, il suffit d'écrire.
     nom_de_la_variable = valeur.
 
 SI je veux associer mon nom à une variable la syntaxe sera donc :
-![Le python te félicite](assets/pierre.png)
+![Le python te félicite](../assets/pierre.png)
 ### Première utilisation des fonctions
 #### La fonction « type »
 Permet de savoir de quel type est uen variable
-![Le python te félicite](assets/type.png)
+![Le python te félicite](../assets/type.png)
 
 #### La fonction print
  permet d'afficher n'importe quel nombre de valeurs fournies en arguments (c'est-à-dire entre les parenthèses). 
- ![Le python te félicite](assets/print.png)
+ ![Le python te félicite](../assets/print.png)
 
 ### Notre projet
 Repassons maintenant à notre projet (Becasino), nous allons commencer par créer un dossier qu'on appellera "Becasino" , ensuite ouvrez ce dossier avec votre éditeur de texte , et créer y le fichier index.py

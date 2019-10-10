@@ -3,7 +3,7 @@
 Nous avons presque terminé , il ne nous reste plus qu'a gèrer les gains avec des conditions. 
 
 En langage Python, cela donne :
-![Le python te félicite](assets/if.png)
+![Le python te félicite](../assets/if.png)
 Linéairement, le schéma d'exécution se traduit comme suit :
 
   - On regarde si `a` est strictement supérieur à 0. Si c'est le cas, on affiche « a est positif » et on s'arrête là.
